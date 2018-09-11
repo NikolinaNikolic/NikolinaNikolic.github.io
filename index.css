@@ -102,10 +102,7 @@ ul#nav {
 		#content #social ul li {
 			float: left; margin: 0 20px 20px 0;
 		}
-			#content #social ul li a {
-				display: block; width: 100px; padding: 5px 0 5px 45px;
-				background: url(images/social-icons.png) no-repeat;
-			}
+			
 				#content #social ul li a.email { background-position: 0 -3px; }
 			
 
