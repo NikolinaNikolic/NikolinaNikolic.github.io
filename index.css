@@ -10,3 +10,41 @@ body {
 #logo {
 	margin: 10px auto 0 auto; position: relative; width: 183px;
 }
+#header {
+	height: 244px; padding: 52px 0 0 57px;
+	 background-color: #735E73;
+}
+
+#header.page {
+	height: 91px; padding: 52px 0 0 57px;
+	 background-color: purple;
+}
+
+
+#content #social {
+	width: 371px; float: left; 
+}		
+	#content #social ul {
+		list-style: none;
+	}
+		#content #social ul li {
+			float: left; margin: 0 20px 20px 0;
+		}
+			#content #social ul li a {
+				display: block; width: 100px; padding: 5px 0 5px 45px;
+				background: url(images/social-icons.png) no-repeat;
+			}
+				#content #social ul li a.twitter { background-position: 0 -3px; }
+				#content #social ul li a.youtube { background-position: -172px -1px; }
+				#content #social ul li a.facebook { background-position: -172px -136px; }
+#footer {
+	background-color:red no-repeat; padding: 40px 0 0 0;
+	overflow: hidden; margin: 0 0 30px 0;
+}
+
+#footer a {
+		color: #a12121; text-decoration: none;
+	}
+		#footer a:hover {
+			color: #671111;
+		}
