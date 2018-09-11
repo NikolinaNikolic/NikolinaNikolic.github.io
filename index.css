@@ -113,8 +113,8 @@ ul#nav {
 	
 
 #footer {
-	background-color:red no-repeat; padding: 40px 0 0 0;
-	overflow: hidden; margin: 0 0 30px 0;
+	background-color:red no-repeat; padding: 40px;
+	overflow: hidden; margin-bottom:25px;
 }
 
 #footer a {
