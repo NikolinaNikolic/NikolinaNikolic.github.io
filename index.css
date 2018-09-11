@@ -79,6 +79,20 @@ ul#nav {
 		#content a:hover {
 			color:green;
 		}
+
+#content .portfolio-item {
+	width: 250px; padding: 4px; background:#AD6D8D; text-align: center;
+	float: left; margin: 0 7px 14px 7px;
+}
+	#content .portfolio-item p.btn {
+		margin: 0;
+}
+	#content .portfolio-item p.btn a {
+		display: block; width: 183px; height: 29px; padding: 7px 0 0 0;
+		 background-color: red;
+		font-weight: bold; text-align: center; text-transform: uppercase;
+		 text-decoration: none;
+}
 #content #social {
 	width: 371px; float: left; 
 }		
